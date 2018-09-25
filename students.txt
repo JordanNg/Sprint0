@@ -54,6 +54,7 @@ Aalok Borkar,borkaraa,aalokb
 Cameron Guillory, guilloca, guilloca
 Christopher Hoskins, hoskinsc, hoskinsc
 Cheng Xie, xiech, Vacancyy
+Jordan Ng, ngjor, JordanNg
 Chasen Yamashita, yamashch, ChasenYamashita
 Huahua Wang, wanghuah, HuahuaWang2018
 Alexandra Leamy, leamya, AlexLeam
